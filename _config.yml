@@ -1,0 +1,51 @@
+title: Luca Preuß
+description: Portfolio und Online CV von Luca Preuß
+baseurl: "https://lpreuss.com"
+url: https://piazzai.github.io/cvless
+
+theme: cvless
+
+# site settings
+taglong: Portfolio & Online CV
+tagshort: Portfolio
+
+# author settings
+author:
+  name: Luca Preuß
+  email: luca@lpreuss.com
+
+photo: assets/files/photo.jpg
+
+joblines:
+  - Abiturient
+  - Wirtschaft & Informatik
+  - Nußloch / Heidelberg, Deutschland
+
+address: Loppengasse 14, 69226 Nußloch
+phone: +49 174 9549863
+
+# profile links
+profile:
+  x: 
+  instagram: https://instagram.com/lucaforyou2023
+  linkedin: https://www.linkedin.com/in/luca-preuß-a34886416
+  github: https://github.com/ChickenWizzard1/
+  cv: true
+
+# build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
