@@ -1,7 +1,7 @@
 title: Luca Preuß
 description: Portfolio und Online CV von Luca Preuß
-baseurl: "https://lpreuss.com"
-url: https://piazzai.github.io/cvless
+baseurl: ""
+url: https://lpreuss.com
 
 theme: cvless
 
