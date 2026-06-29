@@ -1,12 +1,12 @@
 title: Luca Preuß
-description: Portfolio und Online CV von Luca Preuß
+description: Portfolio und Lebenslauf von Luca Preuß
 baseurl: ""
 url: https://lpreuss.com
 
 theme: cvless
 
 # site settings
-taglong: Portfolio & Online CV
+taglong: Portfolio & Lebenslauf
 tagshort: Portfolio
 
 # author settings
@@ -14,7 +14,7 @@ author:
   name: Luca Preuß
   email: luca@lpreuss.com
 
-photo: assets/files/photo.jpg
+photo: assets/files/photo.png
 
 joblines:
   - Abiturient
